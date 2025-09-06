@@ -1,1 +1,4 @@
 hey hello world !!!!!! v
+
+take input from user
+ass values
