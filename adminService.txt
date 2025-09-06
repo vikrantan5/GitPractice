@@ -6,7 +6,7 @@ manage the
 
 
 
-closing thw connectionn
+closing the databaSE Connectionn
 
 
 change1 
