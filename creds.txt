@@ -1,2 +1,0 @@
-username = vikrant singh
-password = Vik4an5@$#
