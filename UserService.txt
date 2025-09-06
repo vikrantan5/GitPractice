@@ -1,2 +1,6 @@
 Get user data
 create avatar for user
+
+
+
+login logouut
