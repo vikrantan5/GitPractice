@@ -1,3 +1,9 @@
 add and remove user 
 
 change  the roles
+
+manage the 
+
+
+
+closing thw connectionn
